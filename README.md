@@ -22,5 +22,5 @@ Once the index.html page is live click on join and you will be moved to index2.h
 Once this is done you will be moved to index3.html payment success mock page denoting that you have registered successfully.
 You can also click on yoga studio and it will be redirected to index4.html where you can see the details of all the user that have been registered for the classes.
 
-I have used Axios for making aoi calls from javascript.
+I have used Axios for making api calls from javascript.
 My backend is in java and Springboot framework.
