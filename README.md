@@ -1,13 +1,11 @@
 # Yoga_Studio
 Yoga Studio implementation using Restful web services wit the help of Java, Springboot , HTML , CSS, Javascript.
 
-A Modern HTML5 Template for Yoga Website.
-
 ## Features
+Used Restful web services to make the website dynamic
 
-- Bootstrap 3
-- Easy Documentation
-- Easy to make changes
+# Tech Skills Used
+Java, SpringBoot, HTMl, CSS , Javascript
 
 ## Getting Started
 The easiest way to get started is to clone the repository
