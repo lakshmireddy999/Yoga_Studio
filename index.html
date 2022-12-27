@@ -14,8 +14,9 @@
 
     <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
 
-    <!--       CUSTOM CSS-->
     <link rel="stylesheet" href="css/style.css">
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="js/getData.js" defer></script>
 </head>
 
 <body data-spy = "scroll" data-target="#menu" data-offset="70" style="font-family: 'Times New Roman', Times, serif;">
@@ -40,7 +41,7 @@
                             <li><a href="#" class="smooth-scroll">Home</a></li>
                             <li><a href="#" class="smooth-scroll">About</a></li>
                             <li><a href="index2.html" class="smooth-scroll">Join</a></li>
-                            <li><a href="index4.html" class="smooth-scroll">Yoga-studio</a></li>
+                            <li><a id="yoga"  onclick="{getData()}" href="index4.html" class="smooth-scroll">Yoga-studio</a></li>
                         </ul>
                     </div>
                 </div>
